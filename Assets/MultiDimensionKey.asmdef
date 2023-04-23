@@ -1,0 +1,21 @@
+{
+    "name": "MultiDimensionKey",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fd4abe4ffe74ef1448afe15c6cb36bb7",
+        "GUID:eb8403d5bc34ae149b14825a03a7f9c3",
+        "GUID:56255bd5d851a6243b63cb370cfc40b1",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:a9420e37d7990b54abdef6688edbe313"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
