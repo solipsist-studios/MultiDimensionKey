@@ -11,6 +11,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEditor;
 
+#if UNITY_EDITOR
 [CustomEditor (typeof (SubdividedCube))]
 [RequireComponent(typeof(MeshFilter))]
 
@@ -27,3 +28,4 @@ public class SubdividedCubeEditor : Editor {
 		}
 	}
 }
+#endif

@@ -9,6 +9,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
+#if UNITY_EDITOR
 public class DefineManager : EditorWindow
 {
 	const string DEF_MANAGER_PATH = "Assets/Pocket Portal VR/Editor/DefineManager.cs";
@@ -129,3 +130,4 @@ public class DefineManager : EditorWindow
 		AssetDatabase.ImportAsset(SCRIPT_PATH, ImportAssetOptions.ForceUpdate);
 	}
 }
+#endif
