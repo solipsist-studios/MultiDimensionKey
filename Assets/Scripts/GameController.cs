@@ -7,7 +7,7 @@ using System.Text;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
-//using WebXR;
+using WebXR;
 
 using Random = UnityEngine.Random;
 

@@ -9,6 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Main.unity
     guid: 46682a41c28a3b842a409afce829243c
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 713d6713cda705f4eaf6069f6691acaf, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 210ed47451efb4f4ca1f3462bcd7cfdb, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: fbab6955927c88e45952380949061279, type: 2}
     WebXR.Settings: {fileID: 11400000, guid: b73ea98ea8136e44fa656fc3d546e709, type: 2}
